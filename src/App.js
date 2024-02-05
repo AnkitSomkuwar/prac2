@@ -1,6 +1,6 @@
 import './App.css'
 
-import TechCardItem from './components/TechCardItem'
+import TechCardItem from './components/CardItem'
 
 const cardsList = [
   {
@@ -47,3 +47,4 @@ const App = () => (
   </div>
 )
 export default App
+
