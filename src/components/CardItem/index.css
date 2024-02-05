@@ -1,5 +1,13 @@
 .card-1 {
   border-top: 5px solid #ff4f64;
+  background-color: #ffffff;
+  margin-left: 20px;
+  width: 250px;
+  padding: 15px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .card-2 {
@@ -22,4 +30,28 @@
 .main-heading {
   font-family: Roboto;
   color: #171f46;
+  text-align: center;
+  font-weight: bold;
+}
+.main-description {
+  font-family: Roboto;
+  color: #171f46;
+  text-align: center;
+  font-size: 13px;
+}
+.bg-card-container {
+}
+
+.card-heading {
+  font-family: Roboto;
+  font-size: 17px;
+  color: #171f46;
+}
+.card-description {
+  font-family: Roboto;
+  font-size: 10px;
+  color: #64748b;
+}
+.card-img {
+  height: 8vh;
 }
